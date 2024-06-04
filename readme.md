@@ -6,5 +6,5 @@
 
 ### Terveisiä äidille!
 
-[![Logo](/atkfirma_logo.jpg "Atk firman logo")]
+![Logo](/atkfirma_logo.jpg "Atk firman logo")
 
